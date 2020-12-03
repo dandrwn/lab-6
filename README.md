@@ -38,9 +38,9 @@ d('78')
 
 ```
 Hasil <br>
-![1](pic/bahn.png)
+![1](pic/bahn.png)<br>
 Terdidir dari 2 file python yang satu untuk proses dan yang satunya lagu untuk mengakses<br>
-agar kedua file tersebut dapat berhubungan kita menggunakan fungsi *** import (nama file yg ingin di gunakan) atau <br> from (nama file yg ingin di gunakan) import ***
+agar kedua file tersebut dapat berhubungan kita menggunakan fungsi ***import (nama file yg ingin di gunakan)atau  from (nama file yg ingin di gunakan) import***
 
 
 
